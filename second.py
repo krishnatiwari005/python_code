@@ -1,2 +1,6 @@
-sum=23+44
-print(sum)
+name = input("name : ")
+print(name)
+print(name)
+print(name)
+print(name)
+print(name)
