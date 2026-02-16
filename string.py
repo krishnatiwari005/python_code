@@ -1,4 +1,4 @@
-str1="cfhchgbfgf"
+str1="lorem"
 str2="hhgfddhj"
 print(str1+str2,len(str1))
 print(str1[:4])
